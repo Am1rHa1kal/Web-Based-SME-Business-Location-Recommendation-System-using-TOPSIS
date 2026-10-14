@@ -3,21 +3,21 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+by the end of this lab, im able to complete all the setup based on the week 3 codespace document
 
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |
-| #2 | | To do |
-| #3 | | To do |
+|#1 |Add acceptance criteria to each user story| todo|
+|#2 |Number the requirements and link each story to one|todo|
+|#3 |Add structure and roadmap to the README|todo|
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+- Standup 1: complete all the lab part 
+- Standup 2: try to complete 1 issue task 
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+Manage to find a partner for the requirement 
 
 ### Retrospective
 - What went well:
