@@ -24,4 +24,4 @@ Manage to complete Issue 1 until Issue 3 after manage to resolve with github log
 ### Retrospective
 - What went well: Completing Issue 1 until 3
 - What was difficult: Dealing with github complexity
-- What I will change next time: More information about project 
+- What I will change next time: More information about project
