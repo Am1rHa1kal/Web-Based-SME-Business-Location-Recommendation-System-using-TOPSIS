@@ -8,6 +8,8 @@
 5. The system shall display the analysis result on interactive map with a ranked table for comparison purpose
 
 ## Non-functional requirements (how the system must PERFORM)
-1. The system shall display the filtering result within 3 second under normal circumstance
-2. The system shall allow user to complete the process without requiring complex knowledge
+1. The system shall display interface for user to submit business type and preference in user-friendly interface
+2. The system shall display location recommendation results within 5 seconds after user input have been accepted
 3. The system shall display interface correctly on common desktop and mobile device
+4. The system shall display recommendation scores, ranking of selected location and description in consistent and understanable format
+5. The system shall display clear error message when the process failed
