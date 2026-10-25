@@ -11,4 +11,9 @@ The location exposed to high risk of business damage as there might be some impo
 
 ## Problem statement (3 to 5 sentences)
 
-Small and Medium Enterprise (SMEs) entrepreneur usually faced with challenge when deciding and selecting suitable business locations since different locations often offer different measurement of rental affordability, purchasing power and competition among other entrepreneurs. Location with high population density may not be suitable if surrounding market does not align with business targets customer. Evaluating all the factors related may consume time and energy as multiple comparison need to be done from time to time. In addition relying to method like self surveying need a lot of time and costs and the finding might be outdated overtime.
+Small and Medium Enterprise (SMEs) entrepreneur usually faced with challenge when deciding and selecting suitable business locations since Selecting business location need for equality for conflicting criteria at the same time including rent, number of potential customer and business competition (Harwati & Utami, 2018). SMEs owner in Petaling District must decide if the location meet the criteria for example, their need to decide whether the rent offered is affordable, whether the location is accessible by public transport, whether the area have enough customers and their also need to check if the surrounding other business will harm the business.
+
+In addition, business also need to face many challenges if the owner decides to find the business location through survey across the townships as it requires a lot of time and money which most likely cannot be afforded by small business owner (McQuarter, 2018). besides the outcome of the survey may be outdated if the business budget start to change rapidly overtime. All of this challenge adds more pressure on SMEs owner whose planning to open a new business or expand it.
+
+
+
